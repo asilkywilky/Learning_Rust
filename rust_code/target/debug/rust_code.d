@@ -1,0 +1,1 @@
+C:\Users\rchri\Desktop\programming\programmingClasses\cse310AppliedProgramming\rust\rust_code\target\debug\rust_code.exe: C:\Users\rchri\Desktop\programming\programmingClasses\cse310AppliedProgramming\rust\rust_code\src\main.rs
